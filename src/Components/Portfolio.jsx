@@ -1,8 +1,7 @@
 import React from "react";
-import GadgetWeb from "../assets/portfolio/gadgetweb.png";
+import GadgetWeb from "../assets/portfolio/gadgetWeb.png";
 import FeedMe from "../assets/portfolio/feedMe.png";
 import GadgetWebApi from "../assets/portfolio/gadgetwebApi.png";
-import CompleteMarket from "../assets/portfolio/CompleteMarket.png"
 import CarBooking from "../assets/portfolio/carBooking.png"
 
 function Portfolio() {
